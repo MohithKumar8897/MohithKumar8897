@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Data science,GenAI and Agentic ai projects projects as part of my course at Imarticus Learning.<br>🧑‍🤝‍🧑 I’m looking to collaborate on: Data science challenges or real-world datasets to build experience.<br>🤝 I’m looking for help with: Getting placed in a data science role and interview preparation.<br>🌱 I’m currently learning: Python, machine learning, and data analysis techniques.<br>💬 Ask me about: My journey from a non-tech background into data science.<br>⚡ Fun fact: I transitioned to data science with no prior coding background!
+🔭 I’m currently working on: Data science,GenAI and Agentic AI projects projects as part of my course at Imarticus Learning.<br>🧑‍🤝‍🧑 I’m looking to collaborate on: Data science challenges or real-world datasets to build experience.<br>🤝 I’m looking for help with: Getting placed in a data science role and interview preparation.<br>🌱 I’m currently learning: Python, machine learning, and data analysis techniques.<br>💬 Ask me about: My journey from a non-tech background into data science.<br>⚡ Fun fact: I transitioned to data science with no prior coding background!
 
 
 # 💻 Tech Stack:
